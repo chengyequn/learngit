@@ -1,4 +1,5 @@
 # shop
 网易2018校招java入职大作业
 
-部署地址：http://144.202.114.212:8080/shop (国外的vps，打开速度很慢~~)
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
